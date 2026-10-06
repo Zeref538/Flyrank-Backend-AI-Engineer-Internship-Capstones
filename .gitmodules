@@ -1,0 +1,6 @@
+[submodule "AI-Image-Understanding-and-Content-Matching-Engine"]
+	path = AI-Image-Understanding-and-Content-Matching-Engine
+	url = https://github.com/Zeref538/AI-Image-Understanding-and-Content-Matching-Engine.git
+[submodule "Usage-Metering-and-Billing-Engine"]
+	path = Usage-Metering-and-Billing-Engine
+	url = https://github.com/Zeref538/Usage-Metering-and-Billing-Engine.git
